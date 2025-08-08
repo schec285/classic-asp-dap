@@ -82,5 +82,3 @@ Classic ASP用のVSCode Debug Adapterを作るために読むべきドキュメ�
 - Classic ASP/IScriptDebugger関連のドキュメントは多くが「Previous versions」にある
 - Internet Archiveで古いMSDNドキュメントを探す必要があるかも
 - 実際のCOMインターフェースの定義は Windows SDKのヘッダーファイルを見る必要がある
-
-がんばってください！質問があれば聞いてくださいね。
